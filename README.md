@@ -5,7 +5,7 @@
 <p>My hobbies are coding, reading, TV, movies, scuba diving, and competitive running.</p>
 
 - 🔭 For work, I’m currently working on a server side rendering project in C# for generating PDF reports.
-- 🌱 For fun, I’m currently learning with a Node developer course to deepen my backend skills.
+- 🌱 For fun, I’m currently refactoring my DungeonGame project now that I have a much better understanding of clean code.
 - 📫 How to reach me: My E-mail is tim.thompsonco@gmail.com.
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I once ran a 50K on a Saturday from Broomfield to Boulder and back for fun, not a race, just to see if I could do it.

@@ -1,6 +1,6 @@
 <p>I am a software engineer with experience in C#, SQL, JavaScript, and TypeScript. I have worked with React, Node, Express, Jira, Confluence, Postman, SQL Server, and PostgreSQL.</p>
 
-<p>I have a BA in Economics and a MS in Taxation. I am currently working on my MS in Computer Science part-time online at Georgia Tech while working full-time. I am a full stack developer although I do prefer backend development.</p> 
+<p>I have a BA in Economics and a MS in Taxation. I am currently working on my MS in Computer Science part-time online at CU Boulder while working full-time. I am a full stack developer although I do prefer backend development.</p> 
 
 <p>My hobbies are coding, reading, TV, movies, scuba diving, and competitive running.</p>
 
